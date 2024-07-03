@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<diagram name="Library">
-  <mxGraphModel dx="1220" dy="860" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-    <root>
-      <mxCell id="0"/>
-      <mxCell id="1" parent="0"/>
-      <mxCell id="2" value="anupamas01" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-        <mxGeometry x="120" y="120" width="80" height="80" as="geometry"/>
-      </mxCell>
-    </root>
-  </mxGraphModel>
-</diagram>
+<mxlibrary>
+  [
+    {
+      "xml": "<mxGraphModel><root><mxCell id=\"0\"/><mxCell id=\"1\" parent=\"0\"/><mxCell id=\"2\" value=\"anupamas01\" style=\"shape=rectangle;whiteSpace=wrap;html=1;\" vertex=\"1\" parent=\"1\"><mxGeometry x=\"0\" y=\"0\" width=\"80\" height=\"80\" as=\"geometry\"/></mxCell></root></mxGraphModel>",
+      "w": 80,
+      "h": 80,
+      "title": "Square with text anupamas01"
+    }
+  ]
+</mxlibrary>
